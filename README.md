@@ -1,2 +1,2 @@
 # BOS-IntegrityVault
-Componente destinado a proporcionar certificaciones inmutables para documentos, fotos, audios y otros archivos electrónicos. 
+Componente destinado a proporcionar certificaciones inmutables para documentos, fotos, audios y otros archivos electrónicos. Esta solución permitirá validar la autenticidad de los archivos mediante timestamps, garantizando su integridad y ofreciendo una herramienta efectiva para evidenciar y prevenir actos de corrupción. La transparencia y seguridad inherentes a la tecnología blockchain serán clave para fortalecer la confianza en la veracidad de la información, marcando un paso significativo hacia la lucha contra la corrupción. 
